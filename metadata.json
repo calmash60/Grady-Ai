@@ -1,0 +1,6 @@
+{
+  "name": "Grady's Assistant",
+  "description": "An intelligent chat assistant powered by advanced AI models. Engage in conversation, generate code with preview/copy/download functionality, and create images from text descriptions.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
